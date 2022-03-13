@@ -1,5 +1,5 @@
 # Lenovo X270 | OpenCore | BigSur (11)
-This repo contains the files and scripts to install macOS on the Lenovo X270 i3-6300 CPU
+This repo contains the files and scripts to install macOS on the Lenovo X270 i3-6100U CPU
 
 ![screen](https://user-images.githubusercontent.com/80203026/158066200-f0282463-e31b-44f3-9c19-891070791b39.png)
 
@@ -7,7 +7,7 @@ for Wifi to work you must install **[Heliport](https://github.com/OpenIntelWirel
 
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad X270
-- <b>CPU</b>: Intel(R) Core(TM) i3-6300U CPU
+- <b>CPU</b>: Intel(R) Core(TM) i3-6100U CPU
 - <b>GPU</b>: Intel HD Graphics 520
 - <b>RAM</b>: 8 GB 2133MHz DDR4
 - <b>Screen</b>: 12,4" (1366x768)
