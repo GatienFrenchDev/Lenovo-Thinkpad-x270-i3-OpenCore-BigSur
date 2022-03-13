@@ -37,7 +37,7 @@ for Wifi to work you must install **[Heliport](https://github.com/OpenIntelWirel
 - [x] Intel Ethernet port
 - [x] Realtek Audio (including headphones jack)
 - [x] Internal camera
-- [x] Trackpad gestures
+- [x] Touchpad click and gestures
 - [x] Shutdown / Reboot
 - [x] Keyboard (incuding all fn Keys)
 - [x] Wi-Fi
@@ -47,4 +47,3 @@ for Wifi to work you must install **[Heliport](https://github.com/OpenIntelWirel
 # What's not working ⚠️
 - [x] Does not show battery percentage
 - [x] Bluetooth
-- [x] Trackpad Click
