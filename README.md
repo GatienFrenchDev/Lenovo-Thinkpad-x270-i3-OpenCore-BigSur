@@ -33,7 +33,7 @@ for Wifi to work you must install **[Heliport](https://github.com/OpenIntelWirel
 # What's Working?
 - [x] Intel HD 520 Graphics (incuding graphics acceleration)
 - [x] CPU Power Management
-- [x] Battery
+- [x] Battery and Battery percentage
 - [x] All USB ports
 - [x] HDMI port (including HDMI Audio)
 - [x] Intel Ethernet port
@@ -47,5 +47,4 @@ for Wifi to work you must install **[Heliport](https://github.com/OpenIntelWirel
 - [x] Sleep / Wake (lid sleep and lid wake) (works for me you can try for yourself)
 
 # What's not working ⚠️
-- [x] Does not show battery percentage
 - [x] Bluetooth
