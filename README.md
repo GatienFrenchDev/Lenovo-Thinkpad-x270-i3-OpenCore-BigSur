@@ -43,8 +43,10 @@ for Wifi to work you must install **[Heliport](https://github.com/OpenIntelWirel
 - [x] Shutdown / Reboot
 - [x] Keyboard (incuding all fn Keys)
 - [x] Wi-Fi
+- [x] Brightness
 - [x] DRM support (iTunes Movies, Apple TV+, Amazon Prime and Netflix, and others)
 - [x] Sleep / Wake (lid sleep and lid wake) (works for me you can try for yourself)
 
 # What's not working ⚠️
 - [x] Bluetooth
+- [x] Sometimes Battery Bugs
